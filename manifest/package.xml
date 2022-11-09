@@ -36,5 +36,13 @@
         <members>*</members>
         <name>Flow</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomNotificationType</name>
+    </types>
     <version>55.0</version>
 </Package>

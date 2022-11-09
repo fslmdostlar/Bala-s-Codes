@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Big_Opportunity_Won_Description</fullName>
+        <categories>Flow - Opportunity After Insert/Update</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Big Opportunity Won Description</shortDescription>
+        <value>Success! We have won a big deal!</value>
+    </labels>
+    <labels>
+        <fullName>New_Customer_Description</fullName>
+        <categories>Flow - &quot;Opportunity - Before Insert&quot;</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Customer Description</shortDescription>
+        <value>This is a new customer. Make sure we deal them well!</value>
+    </labels>
+</CustomLabels>
