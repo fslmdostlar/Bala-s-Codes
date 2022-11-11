@@ -9,6 +9,11 @@
         <name>ApexComponent</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Loan_Application__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ApexPage</name>
     </types>
