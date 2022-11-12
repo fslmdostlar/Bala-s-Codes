@@ -11,6 +11,7 @@
     <types>
         <members>Account</members>
         <members>Loan_Application__c</members>
+        <members>Notification_Event__e</members>
         <name>CustomObject</name>
     </types>
     <types>
